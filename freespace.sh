@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "free -g" 
+free -g 
